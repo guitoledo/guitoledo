@@ -4,7 +4,7 @@ Sou um Front-End Developer. No momento estou trabalhando com Angular 🅰, empen
 
 ![Anurag's GitHub stats](https://readme-stats-omega-eight.vercel.app/api?username=guitoledo&show_icons=true&theme=dark) 
 <br> 
-![Top Langs](https://readme-stats-omega-eight.vercel.app/api/top-langs/?username=guitoledo\&layout=compact)
+![Top Langs](https://readme-stats-omega-eight.vercel.app/api/top-langs/?username=guitoledo\&layout=compact&theme=dark)
 
 
 
