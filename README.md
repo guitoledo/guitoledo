@@ -30,6 +30,5 @@ Sou um Front-End Developer. No momento estou trabalhando com Angular 🅰, empen
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/guitoledo/guitoledo/output/github-contribution-grid-snake.svg">
 </picture>
 
-_generated with [guitoledo/snk](https://github.com/guitoledo/snk)_
 
 
