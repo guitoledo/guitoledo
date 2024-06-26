@@ -6,7 +6,7 @@ Sou um Front-End Developer. No momento estou trabalhando com Angular 🅰, empen
 
 ![Anurag's GitHub stats](https://readme-stats-omega-eight.vercel.app/api?username=guitoledo&show_icons=true&theme=dark) 
 <br> 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guitoledo _icons=true&theme=dark)](https://github.com/guitoledo/github-readme-stats _icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guitoledo)]
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gui-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg">
