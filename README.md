@@ -3,7 +3,6 @@
 Sou um Front-End Developer. No momento estou trabalhando com Angular 🅰, empenhado em evoluir e colaborar no desenvolvimento das pessoas e projetos, aprendendo novas tecnologias, realizando cursos e desafios práticos constantemente.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guitoledo&show_icons=true&theme=dark)
-<br> 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guitoledo&show_icons=true&theme=dark)]
 
 <div style="display: inline_block"><br>
